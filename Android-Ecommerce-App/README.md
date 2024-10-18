@@ -59,12 +59,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-For any questions or feedback, feel free to contact us at -  Hrtbdka111@gmail.com
-
-Project Link: [https://github.com/HerathHM/ecommerce-app](https://github.com/HerathHM/ecommerce-app)
